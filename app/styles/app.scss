@@ -1,20 +1,2 @@
-$space-large: 2.5rem;
-$title-color: #555;
-
-
-.page-title {
-  color: $title-color;
-  margin-top: $space-large;
-  margin-bottom: $space-large;
-  font-style: italic;
-  text-shadow: 1px 1px 2px black;
-  
-}
-
-input[type=search] {
-  box-shadow: none;
-}
-
-p {
-  color: blue;
-}
+@import "base/variables";
+@import "components/nav";
