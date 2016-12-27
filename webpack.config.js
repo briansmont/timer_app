@@ -33,6 +33,8 @@ module.exports = {
       Nav: "app/components/Nav.jsx",
       Countdown: "app/components/Countdown.jsx",
       Timer: "app/components/Timer.jsx",
+      Clock: "app/components/Clock.jsx",
+      jQuery: "node_modules/jquery/dist/jquery.min.js",
     },
     extensions: ['', '.js', '.jsx']
   },
