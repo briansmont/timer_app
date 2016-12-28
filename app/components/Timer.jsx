@@ -41,7 +41,6 @@ var Timer = React.createClass({
   
   
   handleStatusChange: function(newTimerStatus) {
-    console.log(newTimerStatus);
     this.setState({
       timerStatus: newTimerStatus,
     });
