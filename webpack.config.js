@@ -36,6 +36,7 @@ module.exports = {
       Clock: "app/components/Clock.jsx",
       jQuery: "node_modules/jquery/dist/jquery.min.js",
       CountdownForm: "app/components/CountdownForm.jsx",
+      Controls: "app/components/Controls.jsx",
     },
     extensions: ['', '.js', '.jsx']
   },
